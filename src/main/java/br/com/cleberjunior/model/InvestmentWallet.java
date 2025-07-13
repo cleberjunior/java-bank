@@ -1,6 +1,8 @@
 package br.com.cleberjunior.model;
 
 import com.sun.source.doctree.SeeTree;
+import lombok.Getter;
+import lombok.ToString;
 
 import java.time.OffsetDateTime;
 import java.util.UUID;
@@ -8,6 +10,8 @@ import java.util.stream.Stream;
 
 import static br.com.cleberjunior.model.BankService.INVESTMENT;
 
+@ToString
+@Getter
 public class InvestmentWallet extends Wallet {
 
     private final Investment investment;
