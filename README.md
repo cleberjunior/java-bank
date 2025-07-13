@@ -38,6 +38,7 @@ A aplicação simula um sistema bancário básico que permite a *criação de co
 - API RESTful para controle via backend
 - Exportação de relatórios em PDF ou Excel
 
+---
 ## Recursos Úteis
 ### Documentações Oficiais
 - [Início Rápido: Criar uma máquina virtual do Windows no Portal do Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal) - Artigo no Microsoft Learning
