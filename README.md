@@ -55,6 +55,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ---
 ### 👨‍💻 Autor
 **Cleber Farias**
-Desenvolvedor em formação | UNIFACS | Acelera Maker 
+Desenvolvedor em formação | UNIFACS
 [LinkedIn](https://www.linkedin.com/in/cleberfarias/) • [GitHub](https://github.com/cleberjunior)
-
